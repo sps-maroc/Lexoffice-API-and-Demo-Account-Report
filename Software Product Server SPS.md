@@ -1,7 +1,6 @@
 # Software Product Server SPS
 
-[Your Company Logo Here - e.g., <img src="./logo.png" alt="SPS Logo" width="200"/>]
-
+<img src="./logo.png" alt="SPS Logo" width="200"/>
 ---
 
 # Lexoffice API and Demo Account Report
